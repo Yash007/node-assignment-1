@@ -1,0 +1,12 @@
+{
+  "name": "User-Api",
+  "version": "1.0.0",
+  "description": "REST API - Students - Assignment 1",
+  "dependencies": {
+      "restify": "4.1.1",
+      "save": "2.3.0"
+  },
+  "author": "Yash Sompura",
+  "private": true,
+  "main": "index.js"
+}
